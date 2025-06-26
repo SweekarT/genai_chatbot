@@ -1,7 +1,7 @@
 langchain_openai
 openai
 pandas
-urllib
+urllib3
 json
 joblib
 fastapi
