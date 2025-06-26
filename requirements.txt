@@ -1,0 +1,11 @@
+langchain_openai
+openai
+pandas
+urllib
+json
+joblib
+fastapi
+pydantic
+fastapi.middleware.cors
+typing
+dotenv
